@@ -1,1 +1,5 @@
 xgboost
+pandas
+sklearn
+joblib
+os
